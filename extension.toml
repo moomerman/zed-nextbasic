@@ -1,0 +1,11 @@
+id = "nextbasic"
+name = "NextBASIC"
+description = "ZX Spectrum NextBASIC"
+version = "0.1.2"
+schema_version = 1
+authors = ["Richard Taylor <moomerman@gmail.com>"]
+repository = "https://github.com/moomerman/zed-nextbasic"
+
+[grammars.nextbasic]
+repository = "https://github.com/moomerman/tree-sitter-nextbasic"
+rev = "main"

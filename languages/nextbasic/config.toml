@@ -1,0 +1,6 @@
+name = "NextBASIC"
+grammar = "nextbasic"
+path_suffixes = ["nxb", "bas.txt", "bas"]
+line_comments = ["REM ", "; "]
+tab_size = 2
+hard_tabs = false
